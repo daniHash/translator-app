@@ -1,18 +1,37 @@
-# React + Vite
+# 🌟 Lumen Translate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Lumen Translate** is a premium, modern web translator built with **React**. It offers a sleek UI, smooth animations, and support for multiple languages with live translation functionality. Designed with both **light and dark themes**, Lumen Translate brings a polished, responsive, and enjoyable translation experience to your browser.
 
-Currently, two official plugins are available:
+![Preview](./public/preview/translation.png)
+![Preview](./public/preview/dark.png)
+![Preview](./public/preview/light.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+- **Beautiful UI** with glassmorphism panels and blurred orbs.
+- **Dark & Light Mode** with smooth theme transitions.
+- **Multi-language support** with live language detection.
+- **Swap languages** functionality.
+- **Responsive design** for desktop and mobile.
+- **Animated interactions** powered by Framer Motion.
 
-Note: This will impact Vite dev & build performances.
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React 19**
+- **Framer Motion** for animations
+- **Lucide React** for icons
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/lumen-translate.git
+cd lumen-translate
+npm install
+npm start
+```
