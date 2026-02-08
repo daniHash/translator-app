@@ -1,6 +1,13 @@
 # 🌟 Lumen Translate
 
-**Lumen Translate** is a premium, modern web translator built with **React**. It offers a sleek UI, smooth animations, and support for multiple languages with live translation functionality. Designed with both **light and dark themes**, Lumen Translate brings a polished, responsive, and enjoyable translation experience to your browser.
+## **Lumen Translate** is a premium, modern web translator built with **React**. It offers a sleek UI, smooth animations, and support for multiple languages with live translation functionality. Designed with both **light and dark themes**, Lumen Translate brings a polished, responsive, and enjoyable translation experience to your browser.
+
+## 🔗 Live Preview
+
+👉 **View Live Demo:**  
+https://lumentranslate.netlify.app/
+
+---
 
 ![Preview](./public/preview/translation.png)
 ![Preview](./public/preview/dark.png)
